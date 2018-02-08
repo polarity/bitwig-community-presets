@@ -26,4 +26,4 @@ Join our [Bitwig discord for mor informations, talk & help](https://discord.gg/0
 
 9. No beta presets (incase the break). Only presets saved in stable versions are allowed.
 
-Submissions can be posted in this channel or sent to me as a PM. The first compilation will be out the 1th of march. Have fun!
+Submissions can be posted in the discord channel (https://discord.gg/ryNHwnx). Have fun!
