@@ -6,7 +6,7 @@ At the end of each month, all presets will be compiled for download. Everyone wi
 
 Join our [Bitwig discord for mor informations, talk & help](https://discord.gg/0g2ZPafIN3eWParf)
 
-# RULES:
+### RULES : ### 
 
 1. Single instruments with nested devices must be submitted as an instrument preset, layered instruments as a instrument layer/selector device preset, drum machines as a drum machine preset, Effect chains as a Chain or Effect Selector preset. 
 
@@ -20,10 +20,12 @@ Join our [Bitwig discord for mor informations, talk & help](https://discord.gg/0
 
 6. By submitting presets to this compilation, you are allowing for others to use them for their own music. 
 
-7. Presets made before the month are allowed if they haven't been submitted before. Do not submit slight variations of presets submitted in previous months. 
+7. Presets made before the month are allowed if they haven't been submitted before. Do not submit slight variations of presets submitted in previous months, unless you want to fix or update something. In that case use the same name and metadata so it gets overwritten.
 
 8. Only original presets allowed, but you can include other's presets in your chain. Slight variations to official bitwig presets are not allowed.
 
-9. No beta presets (incase the break). Only presets saved in stable versions are allowed.
+9. No beta presets (just incase they break). Only presets saved in non-beta versions are allowed.
+
+10. Samples for sampler presets must be saved within the .bwpreset file (this should be ticked off when saving the preset https://puu.sh/zmpqe/381f7f3011.png), unless they use samples from bitwig packages. Don't use samples you don't have the rights to distribute!!
 
 Submissions can be posted in the discord channel (https://discord.gg/ryNHwnx). Have fun!
