@@ -4,7 +4,7 @@ It's time for the community to come together to make some awesome sounds/effects
 
 At the end of each month, all presets will be compiled for download. Everyone will be able to vote on their favorite preset from each month, to incentivize people to do their best. The idea is to get more people into making presets and to make it easier for everyone to discover new presets.
 
-Join our [Bitwig discord for mor informations, talk & help](https://discord.gg/0g2ZPafIN3eWParf)
+Join our [Bitwig discord for more informations, talk & help](https://discord.gg/0g2ZPafIN3eWParf)
 
 ### RULES : ### 
 
