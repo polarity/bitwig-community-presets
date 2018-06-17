@@ -6,6 +6,22 @@ At the end of each month, all presets will be compiled for download. Everyone wi
 
 Join our [Bitwig discord for more informations, talk & help](https://discord.gg/0g2ZPafIN3eWParf)
 
+## INSTALLATION
+
+Copy the contents of this repository into
+
+- `%userprofile%\Documents\Bitwig Studio\Library\Presets` on Windows
+- `~/Documents/Bitwig Studio/Library/Presets/` on Mac
+- or `~/Documents/Bitwig Studio/Library/Presets/` on Linux
+
+If you're on Linux/Mac you also create symlink that points to the cloned repository like this:
+
+```sh
+$ git clone https://github.com/polarity/bitwig-presets.git
+$ cd bitwig-presets
+$ ln -s "$PWD" "~/Bitwig Studio/Library/Presets/Monthly-Competition"
+```
+
 ### RULES : ### 
 
 1. Single instruments with nested devices must be submitted as an instrument preset, layered instruments as a instrument layer/selector device preset, drum machines as a drum machine preset, Effect chains as a Chain or Effect Selector preset. 
