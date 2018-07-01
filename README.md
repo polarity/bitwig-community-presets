@@ -22,6 +22,8 @@ $ cd bitwig-presets
 $ ln -s "$PWD" "~/Bitwig Studio/Library/Presets/Monthly-Competition"
 ```
 
+or you can use the [companion app (alpha)](https://github.com/polarity/preset-party-app) that syncs the repo into your bitwig preset folder
+
 ### RULES : ### 
 
 1. Single instruments with nested devices must be submitted as an instrument preset, layered instruments as a instrument layer/selector device preset, drum machines as a drum machine preset, Effect chains as a Chain or Effect Selector preset. 
