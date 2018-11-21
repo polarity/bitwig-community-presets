@@ -8,21 +8,27 @@ Join our [Bitwig discord for more informations, talk & help](https://discord.gg/
 
 ## INSTALLATION
 
-Copy the contents of this repository into
+Here are 3 different ways to install the presets.
 
-- `%userprofile%\Documents\Bitwig Studio\Library\Presets` on Windows
-- `~/Documents/Bitwig Studio/Library/Presets/` on Mac
-- or `~/Documents/Bitwig Studio/Library/Presets/` on Linux
+1. Copy the contents of this repository into
 
-If you're on Linux/Mac you also create symlink that points to the cloned repository like this:
+    - `%userprofile%\Documents\Bitwig Studio\Library\Presets` on Windows
+    - `~/Documents/Bitwig Studio/Library/Presets/` on Mac
+    - `~/Documents/Bitwig Studio/Library/Presets/` on Linux
 
-```sh
-$ git clone https://github.com/polarity/bitwig-presets.git
-$ cd bitwig-presets
-$ ln -s "$PWD" "~/Bitwig Studio/Library/Presets/Monthly-Competition"
-```
-
-or you can use the [companion app (alpha)](https://github.com/polarity/preset-party-app) that syncs the repo into your bitwig preset folder
+2. Use a symlink that points to the cloned repository
+    - On linux/mac:
+        ```sh
+        $ git clone https://github.com/polarity/bitwig-presets.git
+        $ cd bitwig-presets
+        $ ln -s "$PWD" "~/Bitwig Studio/Library/Presets/Monthly-Competition"
+        ```
+    - On windows, open the [command prompt as administrator](https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/) and then:
+        ```sh
+        cd %userprofile%\Documents\Bitwig Studio\Library\Presets
+        mklink /D monthly-preset-competition <path_of_the_cloned_repository>
+        ```
+3. Use the [companion app (alpha)](https://github.com/polarity/preset-party-app) that syncs the repo into your bitwig preset folder
 
 ### RULES : ### 
 
