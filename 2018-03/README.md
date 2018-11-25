@@ -1,17 +1,17 @@
 ## May 2018 ##
 
-#### C64 Arp Lead #
+**C64 Arp Lead**  
 Author: CmdRobot  
 Device: Polysynth  
 Description: An emulation of the Commodore 64's arpeggiator
 
-#### NES Wave Suite #
+**NES Wave Suite**  
 Author: CmdRobot  
 Device: Chain  
 Sub-Entries: NES Noise, NES Pulse, NES Triangle  
 Description: DC-Offset-based wave generators to emulate the Nintendo Entertainment System sound card
 
-#### Formant Filter Suite #
+**Formant Filter Suite**  
 Author: jaxter184  
 Device: FX-Layer  
 Sub-Entries: Formant-I, Formant-II, Formant-III  
