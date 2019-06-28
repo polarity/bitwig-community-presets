@@ -53,3 +53,10 @@ Here are 3 different ways to install the presets.
 10. Samples for sampler presets must be saved within the .bwpreset file (this should be ticked off when saving the preset https://puu.sh/zmpqe/381f7f3011.png), unless they use samples from bitwig packages. Don't use samples you don't have the rights to distribute!!
 
 Submissions can be posted in the discord channel (https://discord.gg/ryNHwnx). Have fun!
+
+## More
+I separated all my music goodies into different repositories:
+- 🔥 [Bitwig Presets by Polarity](https://github.com/polarity/polarity-music-tools) - My free to use Bitwig presets (updated regulary)
+- 📋 [Bitwig Projects by Polarity](https://github.com/polarity/bitwig-projects) - My free to use Bitwig projects
+- 💽 [Bitwig Artist Collection](https://github.com/polarity/bitwig-artist-collection) - My official Bitwig 2.0 package
+- ❤️ [Bitwig Community Presets](https://github.com/polarity/bitwig-community-presets) - presets collected from the bitwig discord
