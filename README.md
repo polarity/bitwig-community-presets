@@ -21,7 +21,7 @@ Here are 3 different ways to install the presets.
         ```sh
         $ git clone https://github.com/polarity/bitwig-presets.git
         $ cd bitwig-presets
-        $ ln -s "$PWD" "~/Bitwig Studio/Library/Presets/Monthly-Competition"
+        $ ln -s "$PWD" "~/Documents/Bitwig Studio/Library/Presets/Monthly-Competition"
         ```
     - On windows, open the [command prompt as administrator](https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/) and then:
         ```sh
